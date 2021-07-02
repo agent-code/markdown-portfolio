@@ -7,5 +7,6 @@ var someting
 ```
 
 **A bold statement**
-* An italicised statement *
-* 
+
+*An italicised statement*
+
