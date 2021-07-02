@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Skiing
+2. Good Food
+3. Good
