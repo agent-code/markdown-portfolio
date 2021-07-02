@@ -1,9 +1,11 @@
-'''javascript
+```javascript
+
 import code
-inmport morecode
+import morecode
 
 var someting
-'''
-** A bold statement**
+```
+
+**A bold statement**
 * An italicised statement *
 * 
