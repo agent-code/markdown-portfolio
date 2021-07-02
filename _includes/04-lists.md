@@ -1,3 +1,5 @@
-1. Skiing
+**1. Skiing**
+
 2. Good Food
-3. Good
+
+*3. Good*
